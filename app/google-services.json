@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "283059888550",
+    "firebase_url": "https://musictrackratingapp.firebaseio.com",
+    "project_id": "musictrackratingapp",
+    "storage_bucket": "musictrackratingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283059888550:android:3d95b2081e576b74",
+        "android_client_info": {
+          "package_name": "com.minami.android.musictrackratingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283059888550-umqfg9n0s509bl2omfj88ioese3k686j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minami.android.musictrackratingapp",
+            "certificate_hash": "7502b4a09b9d5a6e6a818d7c7fb306dc7950fd61"
+          }
+        },
+        {
+          "client_id": "283059888550-4j4mo2coehij1dsh85b8e2tg6o9m3i2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5AvdnD-RMYVE5c2aPJUZkPjXpRc1d2H4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283059888550-4j4mo2coehij1dsh85b8e2tg6o9m3i2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

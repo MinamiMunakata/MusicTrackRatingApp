@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "359593372101",
+    "firebase_url": "https://musictrackratingapp-beecf.firebaseio.com",
+    "project_id": "musictrackratingapp-beecf",
+    "storage_bucket": "musictrackratingapp-beecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359593372101:android:3d95b2081e576b74",
+        "android_client_info": {
+          "package_name": "com.minami.android.musictrackratingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359593372101-1h2u73eh5fbh8nr3f6hs5rrke4eioqat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD725PeqIfwqAEtet5Y8tSR-HnycG8q3EI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

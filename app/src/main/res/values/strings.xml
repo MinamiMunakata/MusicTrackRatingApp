@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Music Track Rating App</string>
+    <string-array name="genres">
+        <item>Pop</item>
+        <item>Rock</item>
+        <item>Hip-Hop</item>
+        <item>Classics</item>
+        <item>Samba</item>
+        <item>Reggae</item>
+        <item>K-Pop</item>
+        <item>EDM</item>
+    </string-array>
+</resources>
